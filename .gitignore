@@ -1,0 +1,39 @@
+# Jupyter
+.ipynb_checkpoints/
+profile_default/
+ipython_config.py
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+ENV/
+.pytest_cache/
+.ipynb_checkpoints
+.mypy_cache/
+.ruff_cache/
+
+# Model weights / checkpoints (regenerate by re-running training)
+*.keras
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.ckpt
+checkpoints/
+
+# Generated training outputs (regenerable by re-running training)
+gan_mnist_outputs/
+
+# Derived metadata written by notebooks
+vocab.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
