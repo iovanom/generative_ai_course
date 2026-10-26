@@ -1,0 +1,20 @@
+{
+  "eticheta": "D_seed42_rularea1",
+  "config": {
+    "steps": 30,
+    "guidance": 7.5,
+    "negative_prompt": null,
+    "scheduler": null
+  },
+  "rows": [
+    {
+      "prompt_id": "P1",
+      "prompt": "a watercolor painting of a red fox in a snowy forest",
+      "seed": 42,
+      "file": "P1_s42.png",
+      "time_s": 5.316562604999945,
+      "clip": 36.4328498840332,
+      "nsfw": false
+    }
+  ]
+}

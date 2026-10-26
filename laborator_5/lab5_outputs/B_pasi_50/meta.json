@@ -1,0 +1,92 @@
+{
+  "eticheta": "B_pasi_50",
+  "config": {
+    "steps": 50,
+    "guidance": 7.5,
+    "negative_prompt": null,
+    "scheduler": null
+  },
+  "rows": [
+    {
+      "prompt_id": "P1",
+      "prompt": "a watercolor painting of a red fox in a snowy forest",
+      "seed": 42,
+      "file": "P1_s42.png",
+      "time_s": 8.25781562599991,
+      "clip": 36.51710891723633,
+      "nsfw": false
+    },
+    {
+      "prompt_id": "P1",
+      "prompt": "a watercolor painting of a red fox in a snowy forest",
+      "seed": 7,
+      "file": "P1_s7.png",
+      "time_s": 8.364834127999984,
+      "clip": 35.775089263916016,
+      "nsfw": false
+    },
+    {
+      "prompt_id": "P1",
+      "prompt": "a watercolor painting of a red fox in a snowy forest",
+      "seed": 123,
+      "file": "P1_s123.png",
+      "time_s": 8.418594216000201,
+      "clip": 36.19083023071289,
+      "nsfw": false
+    },
+    {
+      "prompt_id": "P2",
+      "prompt": "a photo of a modern library interior, natural light",
+      "seed": 42,
+      "file": "P2_s42.png",
+      "time_s": 8.421517369999947,
+      "clip": 32.5081672668457,
+      "nsfw": false
+    },
+    {
+      "prompt_id": "P2",
+      "prompt": "a photo of a modern library interior, natural light",
+      "seed": 7,
+      "file": "P2_s7.png",
+      "time_s": 8.367131969000184,
+      "clip": 34.016395568847656,
+      "nsfw": false
+    },
+    {
+      "prompt_id": "P2",
+      "prompt": "a photo of a modern library interior, natural light",
+      "seed": 123,
+      "file": "P2_s123.png",
+      "time_s": 8.324632612999949,
+      "clip": 33.33774948120117,
+      "nsfw": false
+    },
+    {
+      "prompt_id": "P3",
+      "prompt": "a cartoon robot reading a book, flat illustration",
+      "seed": 42,
+      "file": "P3_s42.png",
+      "time_s": 8.272608536999996,
+      "clip": 36.369483947753906,
+      "nsfw": false
+    },
+    {
+      "prompt_id": "P3",
+      "prompt": "a cartoon robot reading a book, flat illustration",
+      "seed": 7,
+      "file": "P3_s7.png",
+      "time_s": 8.263594826999906,
+      "clip": 31.62694549560547,
+      "nsfw": false
+    },
+    {
+      "prompt_id": "P3",
+      "prompt": "a cartoon robot reading a book, flat illustration",
+      "seed": 123,
+      "file": "P3_s123.png",
+      "time_s": 8.252469521999956,
+      "clip": 35.49146270751953,
+      "nsfw": false
+    }
+  ]
+}

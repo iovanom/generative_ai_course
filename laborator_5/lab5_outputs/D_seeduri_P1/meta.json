@@ -1,0 +1,47 @@
+{
+  "eticheta": "D_seeduri_P1",
+  "config": {
+    "steps": 30,
+    "guidance": 7.5,
+    "negative_prompt": null,
+    "scheduler": null
+  },
+  "rows": [
+    {
+      "prompt_id": "P1",
+      "prompt": "a watercolor painting of a red fox in a snowy forest",
+      "seed": 0,
+      "file": "P1_s0.png",
+      "time_s": 5.142161083000246,
+      "clip": 35.89091491699219,
+      "nsfw": false
+    },
+    {
+      "prompt_id": "P1",
+      "prompt": "a watercolor painting of a red fox in a snowy forest",
+      "seed": 1,
+      "file": "P1_s1.png",
+      "time_s": 5.272513545000038,
+      "clip": 33.452510833740234,
+      "nsfw": false
+    },
+    {
+      "prompt_id": "P1",
+      "prompt": "a watercolor painting of a red fox in a snowy forest",
+      "seed": 2024,
+      "file": "P1_s2024.png",
+      "time_s": 5.352296655999908,
+      "clip": 36.21672821044922,
+      "nsfw": false
+    },
+    {
+      "prompt_id": "P1",
+      "prompt": "a watercolor painting of a red fox in a snowy forest",
+      "seed": 31337,
+      "file": "P1_s31337.png",
+      "time_s": 5.48334991999991,
+      "clip": 35.96014404296875,
+      "nsfw": false
+    }
+  ]
+}
