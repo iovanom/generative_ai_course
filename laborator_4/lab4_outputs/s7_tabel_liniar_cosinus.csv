@@ -1,0 +1,5 @@
+Program,Pași DDIM,Calitate vizuală (1-5),Pierdere finală (epoca 15),Timp antrenare (s)
+liniar,50,,0.03267,510
+cosinus,50,,0.05892,506
+liniar,20,,0.03267,510
+cosinus,20,,0.05892,506

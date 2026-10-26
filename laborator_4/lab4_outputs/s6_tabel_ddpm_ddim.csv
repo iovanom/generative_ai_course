@@ -1,0 +1,7 @@
+Metodă,Pași,Timp pentru 64 de imagini (s),Accelerare față de DDPM,Calitate vizuală (1-5),Observații
+DDPM,1000,11.86,×1.0,,
+DDIM,1000,11.94,×1.0,,
+DDIM,200,2.37,×5.0,,
+DDIM,50,0.59,×20.0,,
+DDIM,20,0.24,×49.9,,
+DDIM,10,0.12,×99.0,,
